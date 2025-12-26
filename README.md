@@ -1,28 +1,36 @@
-# Weather App ⛅
+# 🌦️ Weather App
 
-A simple Weather application built using **HTML, CSS, and JavaScript**.  
-It fetches real-time weather data from the **OpenWeatherMap API** and displays temperature, weather condition, humidity, and wind speed.
+A simple and interactive **Weather Application** built using **HTML, CSS, and JavaScript** that fetches weather data from a public API and displays current weather information.
+
+🔗 **Live Demo:**  
+https://rawcdn.githack.com/ranjeetchauhan123/JavaScript-Project-5-Weather-Apis-/fdeaeb9e5d14aba86bcfd5ebc561d97c81265b6c/webapi.html
 
 ---
 
 ## 🚀 Features
-- Search weather by city name
-- Shows current temperature, condition, humidity, and wind speed
-- Displays weather icon based on condition
-- Error handling for invalid cities
-- Responsive and clean UI
+
+- 🔍 Search weather by city name
+- ☀️ Displays current temperature, weather condition, humidity, wind speed, etc.
+- 📱 Responsive and user-friendly design
+- 🌍 Works on both desktop and mobile
 
 ---
 
-## 🛠️ Tech Stack
-- HTML5  
-- CSS3  
-- JavaScript (Fetch API)  
-- [OpenWeatherMap API](https://openweathermap.org/api)
+## 🧱 Built With
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (Vanilla)**
+- 📡 Weather Data API (e.g., OpenWeatherMap)
 
 ---
 
-## 📂 Project Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ranjeetchauhan123/weather-app.git
+## 📁 Project Structure
+---
+
+## 📝 How It Works
+
+1. User enters a **city name** in the search input
+2. JavaScript sends a request to a weather API
+3. Weather data is received (JSON)
+4. Weather data is displayed dynamically on the page
